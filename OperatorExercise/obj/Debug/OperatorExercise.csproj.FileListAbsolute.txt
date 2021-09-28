@@ -1,0 +1,6 @@
+C:\Users\alexr\Desktop\Repos\OperatorExercise\OperatorExercise\bin\Debug\OperatorExercise.exe
+C:\Users\alexr\Desktop\Repos\OperatorExercise\OperatorExercise\bin\Debug\OperatorExercise.pdb
+C:\Users\alexr\Desktop\Repos\OperatorExercise\OperatorExercise\obj\Debug\OperatorExercise.csproj.AssemblyReference.cache
+C:\Users\alexr\Desktop\Repos\OperatorExercise\OperatorExercise\obj\Debug\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\alexr\Desktop\Repos\OperatorExercise\OperatorExercise\obj\Debug\OperatorExercise.exe
+C:\Users\alexr\Desktop\Repos\OperatorExercise\OperatorExercise\obj\Debug\OperatorExercise.pdb

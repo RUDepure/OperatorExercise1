@@ -1,0 +1,5 @@
+C:\Users\alexr\Desktop\Repos\OperatorExercise\OperatorExercise\bin\Release\OperatorExercise.exe
+C:\Users\alexr\Desktop\Repos\OperatorExercise\OperatorExercise\bin\Release\OperatorExercise.pdb
+C:\Users\alexr\Desktop\Repos\OperatorExercise\OperatorExercise\obj\Release\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\alexr\Desktop\Repos\OperatorExercise\OperatorExercise\obj\Release\OperatorExercise.exe
+C:\Users\alexr\Desktop\Repos\OperatorExercise\OperatorExercise\obj\Release\OperatorExercise.pdb
